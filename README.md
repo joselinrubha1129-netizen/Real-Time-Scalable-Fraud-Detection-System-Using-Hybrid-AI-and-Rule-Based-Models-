@@ -263,7 +263,22 @@ tests/test_rules.py::test_rule_toggle PASSED                             [100%]
 ```
 
 ---
+ 👩‍💻 Author
+
+**Joselin Rubba**
+
+Aspiring Data Analyst | Power BI | SQL | MySQL | Data Visualization | Business Intelligence
+
+GitHub:
+https://github.com/joselinrubha1129-netizen
+
+---
 
 ## 📜 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+ ⭐ If you found this project useful
+
+Please consider giving this repository a ⭐ on GitHub.
+
